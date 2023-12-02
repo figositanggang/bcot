@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632382735890",
+    "project_id": "bcot-db618",
+    "storage_bucket": "bcot-db618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632382735890:android:3fdd48a317784e1e6bfacb",
+        "android_client_info": {
+          "package_name": "com.example.bcot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VQ4DT7RXfV9KB-JqFMFH71PgiBvUceY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
